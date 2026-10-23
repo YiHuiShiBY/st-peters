@@ -1,0 +1,49 @@
+{
+  "source": "St_Peters_Historic_Precinct_Day.blend",
+  "night_source": "St_Peters_Historic_Precinct_Night.blend",
+  "historical_reference_year": 1748,
+  "accuracy": "Artistic reconstruction of spatial relationships; not a measured replica",
+  "houses": 5332,
+  "infill_houses": 126,
+  "tree_count": 479,
+  "files": [
+    {
+      "filename": "basilica-medieval.glb",
+      "bytes": 12094912,
+      "megabytes": 11.53,
+      "meshes": 601,
+      "nodes": 608,
+      "materials": 46,
+      "embedded_images": 3,
+      "triangles": 2082582,
+      "draw_calls": 610,
+      "compressed_primitives": 610,
+      "extensions": [
+        "KHR_draco_mesh_compression",
+        "KHR_texture_transform"
+      ],
+      "sha256": "52be8a9891ba0361b635d91f90217e5c8cba9c45213b8cb392976a4246c137ae",
+      "source_objects": 601
+    },
+    {
+      "filename": "context-historic.glb",
+      "bytes": 52305396,
+      "megabytes": 49.88,
+      "meshes": 98,
+      "nodes": 98,
+      "materials": 90,
+      "embedded_images": 5,
+      "triangles": 6878609,
+      "draw_calls": 102,
+      "compressed_primitives": 102,
+      "extensions": [
+        "KHR_draco_mesh_compression",
+        "KHR_materials_specular",
+        "KHR_materials_sheen"
+      ],
+      "sha256": "b28196a3646461819d38a5b9eeff226ca057535ed5b5d5342eb7926cb8ab469a",
+      "source_objects": 98
+    }
+  ],
+  "total_bytes": 64400308
+}
